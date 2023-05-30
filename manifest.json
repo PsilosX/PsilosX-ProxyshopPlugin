@@ -1,0 +1,14 @@
+{
+    "normal": {
+        "Borderless Minimalist": {
+            "class": "BorderlessMinimalistTemplate",
+            "file": "BorderlessMinimalist.psd",
+            "id": "1Qv7WLB-JZduq9irYfgqaEXJibnDLvmQF"
+       },
+        "Borderless Minimalist Short": {
+            "class": "BorderlessMinimalistShortTemplate",
+            "file": "BorderlessMinimalistShort.psd",
+            "id": "1cG6lXRQgWJrAOaXlXIS3MCMNcojbmjj2"
+        }
+    }
+}
