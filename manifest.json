@@ -9,6 +9,11 @@
             "class": "BorderlessMinimalistShortTemplate",
             "file": "BorderlessMinimalistShort.psd",
             "id": "1cG6lXRQgWJrAOaXlXIS3MCMNcojbmjj2"
+       },
+        "Borderless Vibrant": {
+            "class": "BorderlessVibrantTemplate",
+            "file": "BorderlessVibrant.psd",
+            "id": "1BkgdX0Oq5Ne48WIqbCyezE8V-AEe_ZfL"
         }
     }
 }

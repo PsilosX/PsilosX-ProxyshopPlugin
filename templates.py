@@ -41,3 +41,11 @@ class BorderlessMinimalistShortTemplate (temp.BorderlessTemplate):
     def __init__(self, layout):
         cfg.remove_flavor = True
         super().__init__(layout)
+
+
+class BorderlessVibrantTemplate (temp.BorderlessTemplate):
+    """
+     * Borderless Vibrant Template
+     * Created by PsilosX
+    """
+    template_suffix = "Borderless Vibrant"
